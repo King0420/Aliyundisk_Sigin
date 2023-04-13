@@ -4,9 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/104044278/231685287-b4ef9f0c-de22-42cb-8065-6dc088bdb9fa.png)
 
-![image](https://user-images.githubusercontent.com/104044278/231060932-2cd1c1d5-6df3-4d85-a699-d1eb5a732834.png)
-
 替换Aliyundisk_Sigin.py中的**your_refresh_token**，部署在服务器中每天运行即可签到。
+
 可以在宝塔面板中运行
 ```bash
 cd /www/wwwroot 
