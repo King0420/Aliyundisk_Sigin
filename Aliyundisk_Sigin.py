@@ -88,7 +88,7 @@ class SignIn:
         self.signin_reward = reward
 
         print(f'签到成功, 本月累计签到 {self.signin_count} 天.')
-        print(f'本次签到获得{reward}')
+        print(f'本次签到{reward}')
 
     def run(self) -> None:
         """
