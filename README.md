@@ -1,4 +1,4 @@
-# 阿里云盘签到
+# 阿里云盘自动签到
 
 **一、获取refresh_token地址**：https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
 
