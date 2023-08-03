@@ -1,4 +1,5 @@
 # 阿里云盘自动签到
+![Aliyundisk_Sigin](https://socialify.git.ci/King0420/Aliyundisk_Sigin/image?description=1&font=Inter&forks=1&language=1&name=1&owner=1&stargazers=1&theme=Light)
 
 **一、获取refresh_token地址**：https://alist.nn.ci/zh/guide/drivers/aliyundrive.html
 
